@@ -3,7 +3,8 @@
 ![gif of demo](http://github.com/shayinqi/calculateLabelHeight/raw/master/gif/textHeight.gif)
 
 ###HOW TO USE
-Just copy CalTextHeight file to your project
+Just copy CalTextHeight file to your project 
+
 import header file
 ```objective-c
 #import "UILabel+calculateHeightAndRect.h"
