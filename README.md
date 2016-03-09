@@ -2,6 +2,9 @@
 Calculate Label Height [UILabel category]
 
 ![showMoreText][1]
+![image][1]
 
-[1]:http://github.com/shayinqi/calculateLabelHeight/raw/master/textHeight.gif
-[2]:http://www.ituring.com.cn/Content/img/Turing.Gif
+[1]:http://github.com/shayinqi/calculateLabelHeight/raw/master/textHeight.Gif
+
+showMoreText
+
