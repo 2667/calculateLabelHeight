@@ -1,2 +1,2 @@
-# calculateLabelHeight
-calculate Label Height [UILabel category]
+# Calculate Label Height
+Calculate Label Height [UILabel category]
