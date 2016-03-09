@@ -57,3 +57,5 @@ Change line 1 Label to number fully display Label
 +(void)ReSetLabelByFullyDisplay:(UILabel*)myLabel;
 
 ```
+
+### See more usage in demo
