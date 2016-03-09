@@ -1,6 +1,6 @@
 # Calculate Label Height
 
-![show more text](http://github.com/shayinqi/calculateLabelHeight/raw/master/gif/textHeight.gif)
+![gif of demo](http://github.com/shayinqi/calculateLabelHeight/raw/master/gif/textHeight.gif)
 
 ###HOW TO USE
 Just copy CalTextHeight file to your project
@@ -47,7 +47,7 @@ Make a Label for fully display its content
                         
 ```
 
-Change line 1 Label to fully display its content
+Change line 1 Label to number fully display Label
 ```objective-c
 /**
  *  change you label size for fully display its content 
