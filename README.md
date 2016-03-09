@@ -11,7 +11,7 @@ import header file
 ```
 
 ###Usage
-Calculate Label Height with paramater
+Calculate Label Height with parameter
 ```objective-c
 /**
  *  calculate Label Height for String content
