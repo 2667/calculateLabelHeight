@@ -28,6 +28,9 @@ import header file
                  FullTextDisplay:(NSString*)text
                         FontSize:(int)fontSize;
                         
+```
+
+```objective-c
 /**
  *  change you label size for fully display its content 
  *
@@ -35,6 +38,11 @@ import header file
  */
 +(void)ReSetLabelByFullyDisplay:(UILabel*)myLabel;
 
+
+```
+
+```objective-c
+3333
 /**
  *  calculate Label Height for String content
  *
