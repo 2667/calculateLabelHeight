@@ -121,7 +121,7 @@ static void* newLabelKey = &newLabelKey;
  *
  *  @return 返回文字的高度
  */
-+(CGFloat)calculateHeightForFullDisplayText:(NSString*)text
++(CGFloat)CalculateHeightForFullDisplayText:(NSString*)text
                                        Font:(int)fontSize
                                   textWidth:(CGFloat)width
 {

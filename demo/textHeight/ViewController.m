@@ -32,7 +32,7 @@
     [self.view addSubview:textLb2];
     
     //更具字符串的内容 字体 宽度 计算Label对应的高度
-    NSString* textHeight = @([UILabel calculateHeightForFullDisplayText:text2 Font:10 textWidth:300]).stringValue;
+    NSString* textHeight = @([UILabel CalculateHeightForFullDisplayText:text2 Font:10 textWidth:300]).stringValue;
     
     //只是为了让你看计算到结果
     UILabel* calTextHeight = [[UILabel alloc]initWithFrame:CGRectMake(10, SCREEN_HEIGHT - 25, 200, 20)];
