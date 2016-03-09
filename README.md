@@ -22,7 +22,7 @@ Calculate Label Height with parameter
  *
  *  @return height of assumed label
  */
-+(CGFloat)calculateHeightForFullDisplayText:(NSString*)text
++(CGFloat)CalculateHeightForFullDisplayText:(NSString*)text
                                        Font:(int)fontSize
                                   textWidth:(CGFloat)width;
 ```
