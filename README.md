@@ -60,4 +60,7 @@ Change line 1 Label to number fully display Label
 ```
 
 ### See more usage in demo
-### demo里都有中文注释
+
+> 1. 一行解决所有label高度烦恼
+
+> 2. demo里都有中文注释
