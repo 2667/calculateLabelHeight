@@ -48,7 +48,7 @@ Make a Label for fully display its content
                         
 ```
 
-Change line 1 Label to number fully display Label
+Change label size for fully display its content
 ```objective-c
 /**
  *  change you label size for fully display its content 
