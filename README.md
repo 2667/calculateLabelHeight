@@ -10,6 +10,23 @@ import header file
 ```
 
 ###Usage
+Calculate Label Height with paramater
+```objective-c
+/**
+ *  calculate Label Height for String content
+ *
+ *  @param text     text context 
+ *  @param fontSize font size in Label
+ *  @param width    Label width
+ *
+ *  @return height of assumed label
+ */
++(CGFloat)calculateHeightForFullDisplayText:(NSString*)text
+                                       Font:(int)fontSize
+                                  textWidth:(CGFloat)width;
+```
+
+Make a Label for fully display its content
 ```objective-c
 /**
  *  Label with Full display with its text
@@ -30,6 +47,7 @@ import header file
                         
 ```
 
+Change line 1 Label to fully display its content
 ```objective-c
 /**
  *  change you label size for fully display its content 
@@ -38,21 +56,4 @@ import header file
  */
 +(void)ReSetLabelByFullyDisplay:(UILabel*)myLabel;
 
-
-```
-
-```objective-c
-3333
-/**
- *  calculate Label Height for String content
- *
- *  @param text     text context 
- *  @param fontSize font size in Label
- *  @param width    Label width
- *
- *  @return height of assumed label
- */
-+(CGFloat)calculateHeightForFullDisplayText:(NSString*)text
-                                       Font:(int)fontSize
-                                  textWidth:(CGFloat)width;
 ```
